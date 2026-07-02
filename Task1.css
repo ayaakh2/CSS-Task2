@@ -179,10 +179,10 @@
 
 }
 
-@media (max-width: 768px){
+@media (max-width: 992px){
     .container-head{
         font-size: 0.75rem;
-        background-color: aqua;        
+        /* background-color: aqua;         */
     }
     .logo-section{
         width: 75px;
@@ -281,10 +281,10 @@
 
 
 }
-@media (max-width: 480px){
+@media (max-width: 576px){
     .container-head{
         font-size: 0.5rem;
-        background-color:rgb(154, 255, 134);        
+        /* background-color:rgb(154, 255, 134);         */
     }
     .logo-section{
         width: 50px;
